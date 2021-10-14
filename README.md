@@ -1,12 +1,15 @@
 # smartCar
 智能汽車是一種高度計算機化的汽車，具有普適計算、直觀的人機交互和開放的應用平台。 在這裡，我們提出了一個先進的智能汽車演示平台，帶有透明的擋風玻璃顯示屏和各種運動傳感器，駕駛員可以在增強現實中操縱各種適合汽車的應用程序。 與智能手機類似，司機可以根據自己的需要和需要，通過免費下載適合汽車的應用程序來定制他們的智能汽車。
-換句話說就是這份專案是先以模擬smartCar的平台演示給大家看，那他演示了直觀的互動開放平台還有一些功能。smartCar真低猛
+
+
+
+換句話說齁就是這份專案是先以模擬smartCar的平台演示給大家看，那他演示了直觀的互動開放平台還有一些功能。smartCar真低猛
 學號：108360103
 班級：電子三甲
 學生：黃祐宸
 
 
-![image](https://github.com/smartCarLab/smartCar/blob/master/image/image0.jpg?raw=true)
+![image](https://github.com/smartCarLab/smartCar/blob/master/image/image00.png?raw=true)
 
 Figure 1. Exterior and interior views of the Smart Car demonstration platform.
 
